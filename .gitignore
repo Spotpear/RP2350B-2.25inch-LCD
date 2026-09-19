@@ -1,24 +1,24 @@
-# Build output
-build/
-c/build/
-cmake-build-*/
+# Build output - DISABLED: user requested full build/ upload
+# build/
+# c/build/
+# cmake-build-*/
 
 # CMake / toolchain generated files
-*.gch
-compile_commands.json
-CMakeCache.txt
-CMakeFiles/
-*.ninja
-Makefile
+# *.gch
+# compile_commands.json
+# CMakeCache.txt
+# CMakeFiles/
+# *.ninja
+# Makefile
 
 # Compiled objects / binaries
-*.o
-*.obj
-*.elf
-*.elf.map
-*.map
-*.dis
-*.lst
+# *.o
+# *.obj
+# *.elf
+# *.elf.map
+# *.map
+# *.dis
+# *.lst
 
 # Python
 __pycache__/
